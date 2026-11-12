@@ -1,0 +1,8 @@
+config.json
+build_cfg/
+cache/
+build/
+dist/
+__pycache__/
+resultado*.html
+resultado*.json
